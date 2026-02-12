@@ -1,4 +1,4 @@
-下面是根据你提供的 GitHub 仓库 **paditianxiu/orientation-faker**（一款屏幕方向管理器，类似于 Rotation）生成的 Markdown 文档草稿：([GitHub][1])
+下面是根据你提供的 GitHub 仓库 **paditianxiu/orientation-faker**（一款屏幕方向管理器，类似于 Rotation）生成的 Markdown 文档草稿：
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 🧠 项目简介
 
-`orientation-faker` 是一个用于 Android 平台的屏幕方向控制工具。它允许你在应用运行时强制固定屏幕方向，或根据传感器旋转屏幕，而不受当前显示应用默认方向的限制。([GitHub][1])
+`orientation-faker` 是一个用于 Android 平台的屏幕方向控制工具。它允许你在应用运行时强制固定屏幕方向，或根据传感器旋转屏幕，而不受当前显示应用默认方向的限制。
 
 ## 🚀 主要功能
 
