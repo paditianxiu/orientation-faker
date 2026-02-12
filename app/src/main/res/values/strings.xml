@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">OrientationFaker</string>
+
+    <string name="about">关于</string>
+    <string name="view_source">查看源码:</string>
+    <string name="join_channel">加入频道:</string>
+    <string name="opensource_info">版权所有 © 2026 paditianxiu</string>
+
+    <string name="label_unspecified">不指定</string>
+    <string name="label_portrait">竖屏</string>
+    <string name="label_landscape">横屏</string>
+    <string name="label_reverse_portrait">反向竖屏</string>
+    <string name="label_reverse_landscape">反向横屏</string>
+    <string name="label_full_sensor">全自动</string>
+    <string name="label_sensor_portrait">竖屏自动</string>
+    <string name="label_sensor_landscape">横屏自动</string>
+    <string name="label_sensor_lie_left">左侧躺</string>
+    <string name="label_sensor_lie_right">右侧躺</string>
+    <string name="label_sensor_headstand">倒立</string>
+    <string name="label_sensor_full">全向</string>
+    <string name="label_sensor_forward">前进方向</string>
+    <string name="label_sensor_reverse">反向</string>
+    <string name="label_clear">清除</string>
+    <string name="label_setting">设置</string>
+
+    <string name="description_unspecified">此应用未指定方向. 设备会使用原始的方向.</string>
+    <string name="description_portrait">固定为竖屏</string>
+    <string name="description_landscape">固定为横屏</string>
+    <string name="description_reverse_portrait">固定为反向竖屏</string>
+    <string name="description_reverse_landscape">固定以反向横屏</string>
+    <string name="description_full_sensor">通过传感器（系统控制）在所有方向上旋转</string>
+    <string name="description_sensor_portrait">固定为竖屏, 通过传感器自动上下翻转</string>
+    <string name="description_sensor_landscape">固定为横屏, 通过传感器自动上下翻转</string>
+    <string name="description_sensor_lie_left">相对于传感器向左旋转 90 度. 和向左侧躺着时的上下一致.</string>
+    <string name="description_sensor_lie_right">相对于传感器向右旋转 90 度. 和向右侧躺着时的上下一致.</string>
+    <string name="description_sensor_headstand">相对于传感器旋转 180 度. 和把设备倒着拿的上下一致.</string>
+    <string name="description_sensor_full">通过传感器（应用程序控制）在所有方向上旋转</string>
+    <string name="description_sensor_forward">通过传感器向前旋转, 不反向旋转</string>
+    <string name="description_sensor_reverse">通过传感器反向旋转, 不向前旋转</string>
+    <string name="description_clear">清除每个应用程序设置, 遵循全局设置</string>
+    <string name="description_settings">启动设置</string>
+
+</resources>
