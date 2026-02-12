@@ -1,7 +1,3 @@
-下面是根据你提供的 GitHub 仓库 **paditianxiu/orientation-faker**（一款屏幕方向管理器，类似于 Rotation）生成的 Markdown 文档草稿：
-
----
-
 # orientation-faker
 
 一款屏幕方向管理器，类似于 Rotation。
